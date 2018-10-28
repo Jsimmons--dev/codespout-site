@@ -36,6 +36,16 @@
   float: left;
   width: 33.33%;
 }
+.button {
+  background-color: dodgerblue; 
+  border: none;
+  color: dodgerblue;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+}
 
 .row:after {
   content: "";
@@ -45,8 +55,4 @@
 
 .App-logo2 {
   height: 25vmin;
-}
-
-.p{
-  link: href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet";
 }

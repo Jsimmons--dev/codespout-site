@@ -17,6 +17,12 @@ class App extends Component {
            <br/>
            <img src={'./csapp.PNG'} className="App-logo2"></img>
            <h1 style={{color:'white'}}>App Development</h1>
+           <h3 style={{color:'white'}}>Access your most creative thoughts and share them with us. allow the CodeSpout app team to explore your ideas and create an app that redefines the way you and your users access your content.</h3>
+           <button type="button">Explore Apps</button>
+           <br/>
+           <br/>
+           <br/>
+           <br/>
            <br/>
            <br/>
            <br/>
@@ -33,7 +39,7 @@ class App extends Component {
             <br/>
             <img src={'./compcs.PNG'} className="App-logo2"></img>
             <h1 style={{color:'white'}}>Web Design</h1>
-            <p fontSize='40' style={{color:'white'}}>Explore endless possibilities of growing your business and improving your center with the CodeSpout web development team.</p>
+            <h3 align='center' style={{color:'white'}}>Explore endless possibilities of growing your business and improving your center with the CodeSpout web development team.</h3>
             <br/>
            <br/>
            <br/>
@@ -51,6 +57,10 @@ class App extends Component {
             <img src={'./csgraphics.PNG'} className="App-logo2"></img>
             <h1 style={{color:'white'}}>Graphic Design</h1>
             <br/>
+           <br/>
+           <br/>
+           <br/>
+           <br/>
            <br/>
            <br/>
            <br/>
