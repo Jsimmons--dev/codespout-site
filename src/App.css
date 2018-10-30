@@ -2,9 +2,13 @@
   text-align: center;
 }
 
+
 .topnav {
-  background-color: #333;
+  background-color: #282c34;
   overflow: hidden;
+  position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 .topnav a {
@@ -54,10 +58,17 @@
   }
 }
 
+.col-container {
+  display: table; 
+  width: 100%; 
+}
 
-.column {
+.col {
   float: left;
   width: 33.33%;
+  display: table-cell;
+  display: block;
+  height: 600px;
   }
 
 .row:after {
@@ -93,6 +104,45 @@
 	position:relative;
 	top:1px;
 }
+.div {
+  font-size: 150%;
+}
 
+.col-container1 {
+  display: table; 
+  width: 100%; 
+}
 
+.col1 {
+  float: left;
+  width: 33.33%;
+  display: table-cell;
+  display: block;
+  height: 600px;
+  background-color: White;
+  }
 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.col-container2 {
+  display: table; 
+  width: 100%; 
+}
+
+.col2 {
+  float: left;
+  width: 33.33%;
+  display: table-cell;
+  display: block;
+  height: 600px;
+  background-color: #282c34;
+  }
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
