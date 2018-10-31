@@ -65,15 +65,18 @@ class App extends Component {
           </div>
         </div>
         <div class="w3-container">
-          <h1 style={{ color: 'mediumorchid' }}>Meet Our Clients</h1>
-          <p>Go ahead, click some logos and see hat we can do!</p>
+          <h1 align='left' style={{ color: 'mediumorchid' }}>Check out our projects. </h1>
+          <p>Go ahead, click some logos and see what we can do!</p>
+          <br/>
+          <br/>
+          <br/>
           <div class='col-container1'>
             <div class="row">
-              <div class="col1">
+              <div class="col1" align='center'>
                 <img src={'./tricore.PNG'} className="App-logo2"></img>
                 <br /><br /><br />
               </div>
-              <div class="col1">
+              <div class="col1" align='center'>
                 <img src={'./bt3.jpg'} className="App-logo2"></img>
                 <br /><br /><br />
               </div>

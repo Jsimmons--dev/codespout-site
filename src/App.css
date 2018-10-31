@@ -146,3 +146,28 @@
   display: table;
   clear: both;
 }
+
+.w3-container {
+font-size: 35px;
+}
+
+p {
+  font-size: 1em;
+}
+
+.w4-container {
+  font-size: 30px;
+}
+p{
+  font-size: 1em;
+}
+
+img {
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+
+img:hover {
+  opacity: 1.0;
+  filter: alpha(opacity=100); 
+}
