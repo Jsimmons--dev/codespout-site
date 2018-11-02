@@ -29,7 +29,7 @@ class App extends Component {
                 <br />
                 <br />
                 <h1 style={{ color: 'mediumorchid' }}>App <strong style={{ color: 'white' }}>Development</strong></h1>
-                <h3 style={{ color: 'white' }}>Access your most creative thoughts and share them with us. allow the CodeSpout app team to explore your ideas and create an app that redefines the way you and your users access your content.</h3>
+                <h3 style={{ color: 'white' }}>Access your most creative thoughts and share them with us. Allow the CodeSpout app team to explore your ideas and create an app that redefines the way you and your users access your content.</h3>
                 <br />
                 <br />
                 <br />
@@ -66,18 +66,17 @@ class App extends Component {
         </div>
         <div class="w3-container">
           <h1 align='left' style={{ color: 'mediumorchid' }}>Check out our projects. </h1>
-          <p>Go ahead, click some logos and see what we can do!</p>
           <br/>
           <br/>
           <br/>
           <div class='col-container1'>
             <div class="row">
               <div class="col1" align='center'>
-                <img src={'./tricore.PNG'} className="App-logo2"></img>
+                <img src={'./tricore.PNG'} alt='tri' className="App-logo2"></img>
                 <br /><br /><br />
               </div>
               <div class="col1" align='center'>
-                <img src={'./bt3.jpg'} className="App-logo2"></img>
+                <img src={'./bt3.jpg'}  alt='bt3' className="App-logo2"></img>
                 <br /><br /><br />
               </div>
               <div class="col1">

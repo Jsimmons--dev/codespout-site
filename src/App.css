@@ -162,12 +162,8 @@ p{
   font-size: 1em;
 }
 
-img {
-  opacity: 0.5;
-  filter: alpha(opacity=50);
-}
-
-img:hover {
-  opacity: 1.0;
-  filter: alpha(opacity=100); 
+body: w3-container {
+  background-image: url("/Users/Chris/Documents/codespout-site/public/geobkgd.jpg");
+  background-repeat: no-repeat, repeat;
+  background-color: #cccccc;
 }
